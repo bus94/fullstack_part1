@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;mysql-connector-j-8.3.0.jar&apos; to &apos;20240502&apos;&#x0D;&#x0A;- Original project: &apos;20240430&apos;&#x0D;&#x0A;- Destination element: &apos;20240502&apos;&#x0D;&#x0A;- Original element: &apos;mysql-connector-j-8.3.0.jar&apos;" description="Copy file" destination="=20240502" element1="mysql-connector-j-8.3.0.jar" files="1" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1714608329057" units="0" version="1.0"/>
+</session>

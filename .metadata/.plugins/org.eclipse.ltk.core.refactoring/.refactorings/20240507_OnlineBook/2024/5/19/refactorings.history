@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;Book_Main.MainMenu&apos; to &apos;MainWindow&apos;&#x0D;&#x0A;- Original project: &apos;20240507_OnlineBook&apos;&#x0D;&#x0A;- Original element: &apos;Book_Main.MainMenu&apos;&#x0D;&#x0A;- Renamed element: &apos;Book_Main.MainWindow&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;MainMenu&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;Book_Main{MainMenu.java[MainMenu" matchStrategy="1" name="MainWindow" qualified="false" references="true" similarDeclarations="false" stamp="1715067962443" textual="false" version="1.0"/>
+</session>
